@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
@@ -444,3 +445,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+=======
+# letsmeet
+LetsMeet is a real-time video conferencing application similar to Zoom, enabling users to host meetings, share screens, chat, and collaborate online.
+>>>>>>> 452e63ee8ce0083be8e0d5a551d6e31a992788cb
